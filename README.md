@@ -25,7 +25,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 8. Copier la cle
 
 9. Mettre dans le fichier .env
-# cle pour test: AIzaSyDwVwB56MhvQry_JdV5UTUE9JDnuAyk_64
 
 10. run the development server:
 
